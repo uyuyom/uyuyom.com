@@ -1,0 +1,7 @@
+Dosyalar arası senkronizasyon scripti.
+
+Çalıştırmadan önce dosya konfigürasyonunu "valheimsync.py" içinden değiştirin.
+
+Executable (.exe) oluşturmak için "pyinstaller -F -w C:/dosyalokasyonu/scriptadi.py" komutunu çalıştırın.
+
+Arkaplanda otomatik çalışması için exeyi kullanarak task scheduler üzerinden task oluşturabilirsiniz.
